@@ -35,7 +35,8 @@ public class Scopping {
         //note : what ever value are already defined in the scope of the function of the for loop or the block we cannot initialize those again.
         //note : anything will be initialized outside the block can be used inside the block. but anything will be initialized the block cannot use outside the block.
         // note : anything will be initialized outside the block cannot again initialized the inside the block but anything will be initialized inside the block can be again initialized out side the block.
-        
+
+
     }
 
     static void random(int marks){
